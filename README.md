@@ -1,5 +1,5 @@
 # C++ Solution For Visual Studio Code
- An example solution for Visual Studio Code to start programming in C++.
+ A working solution for Visual Studio Code to start programming in C++.
 
 ## How to use
 ### Compiler
