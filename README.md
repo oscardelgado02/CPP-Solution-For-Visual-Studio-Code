@@ -3,7 +3,7 @@
 
 ## How to use
 ### Compiler
- This solution uses MinGW G++ compiler, but you can change it on [.vscode/tasks.json](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/.vscode/tasks.json) file:
+ First of all, you will need to change the path of the compiler you are going to use inside [.vscode/tasks.json](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/.vscode/tasks.json) file:
  ```json
 {
     "tasks": [
@@ -15,13 +15,14 @@
     ]
 }
  ```
+In my case, I installed and used [MinGW G++ compiler](https://sourceforge.net/projects/mingw/).
 
 ### Add a class to the project
  To add a class, you need to create two files and add them on [src](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/tree/main/src) folder:
  - className.cpp
  - className.h
 
- Also, you will need to add the class cpp path on [.vscode/tasks.json](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/.vscode/tasks.json) file:
+ Also, you will need to add the class cpp path inside [.vscode/tasks.json](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/.vscode/tasks.json) file:
  ```json
 {
     "tasks": [
