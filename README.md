@@ -46,4 +46,4 @@ In my case, I installed and used [MinGW G++ compiler](https://sourceforge.net/pr
  ```
 
 ### Compile and run the program
-Compile [src/main.cpp](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/src/main.cpp) and [program.exe](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/program.exe) file will be generated. Just run [program.exe](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/program.exe) and you will be running the program you have created!
+Compile [src/main.cpp](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/src/main.cpp) and [program.exe](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/program.exe) file will be generated. Just run [program.exe](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/program.exe) and you will be running the program you have just created!
