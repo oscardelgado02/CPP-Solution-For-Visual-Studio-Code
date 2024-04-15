@@ -1,6 +1,11 @@
 # C++ Solution For Visual Studio Code
  A working solution for Visual Studio Code to start programming in C++.
 
+<div align="center">
+<img src="https://github.com/oscardelgado02/oscardelgado02/blob/main/images/CPP-Solution-For-Visual-Studio-Code-Preview.png" align="center" style="width: 80%" />
+</div>
+<br>
+
 ## How to use
 ### Compiler
  First of all, you will need to change the path of the compiler you are going to use inside [.vscode/tasks.json](https://github.com/oscardelgado02/Example-CPP-Solution-For-VSC/blob/main/.vscode/tasks.json) file:
